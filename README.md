@@ -11,7 +11,7 @@
 단련된 우선순위 판단력과 문제 해결 능력,
 그리고 유연한 커뮤니케이션 스킬을 발휘하여
 신뢰받는 시스템을 추구합니다.
-<br /><br /><br /><br /><br />
+<br /><br /><br /><br />
 
 # <image src="/images/presentation.svg"> 프로젝트
 
