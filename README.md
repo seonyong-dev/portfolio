@@ -75,11 +75,11 @@
 
 # <image src="/images/user-star.svg"> Contact
 
-- 이메일 : wlstjsdyd911@naver.com
-- 블로그 : <a href="https://velog.io/@seonyong-dev/posts">
+- E-mail : wlstjsdyd911@naver.com
+- Blog : <a href="https://velog.io/@seonyong-dev/posts">
   https://velog.io/@seonyong-dev
   </a>
-- 깃허브 : <a href="https://seonyong-dev.github.io/">
+- Portfolio Website : <a href="https://seonyong-dev.github.io/">
   https://seonyong-dev.github.io/
   </a>
 
