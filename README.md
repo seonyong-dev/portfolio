@@ -82,3 +82,8 @@
 - 깃허브 : <a href="https://seonyong-dev.github.io/">
   https://seonyong-dev.github.io/
   </a>
+
+---
+<small>
+Icons provided by <a href="https://lucide.dev/">Lucide</a>.
+</small>
