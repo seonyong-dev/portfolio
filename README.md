@@ -68,7 +68,7 @@
 <br />
 <br />
 
-# <image src="/images/user-star.svg"> Certification
+# <image src="/images/file-badge.svg"> Certification
 
 - 정보처리기사(2025.12.24)
 - SQLD(2026.03.27)
