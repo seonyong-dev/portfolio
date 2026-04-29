@@ -1,4 +1,4 @@
-# <image src="/images/folders.svg">진선용 포트폴리오입니다.
+# <image src="/images/folders.svg"> 진선용 포트폴리오입니다.
 
 해답을 찾아내는 성취감을 동력으로 나아가는 진선용입니다.
 
@@ -13,7 +13,7 @@
 신뢰받는 시스템을 추구합니다.
 
 
-# <image src="/images/presentation.svg">프로젝트
+# <image src="/images/presentation.svg"> 프로젝트
 
 25년 10월 29일부터 26년 04월 29일까지 6개월 동안 개발자 훈련 과정을 통해 Java, Python, Spring MVC, Git, AI 등 활용하여 '비대면 과제관리 시스템'과 '식품 커머스 플랫폼' 프로젝트를 진행함으로써 직무 경험을 쌓았습니다.
 
@@ -68,14 +68,14 @@
 <br />
 <br />
 
-# <image src="/images/user-star.svg">Certification
+# <image src="/images/user-star.svg"> Certification
 
 - 정보처리기사(2025.12.24)
 - SQLD(2026.03.27)
 - ADsP(2026.03.06)
 - 간호사 면허(2023.02.23)
 
-# <image src="/images/user-star.svg">Contact
+# <image src="/images/user-star.svg"> Contact
 
 - 이메일 : wlstjsdyd911@naver.com
 - 블로그 : <a href="https://velog.io/@seonyong-dev/posts">
