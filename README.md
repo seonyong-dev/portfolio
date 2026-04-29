@@ -68,6 +68,12 @@
 <br />
 <br />
 
+# Certification
+- 정보처리기사(2025.12.24)
+- SQLD(2026.03.27)
+- ADsP(2026.03.06)
+- 간호사 면허(2023.02.23)
+
 # Contact
 
 - 이메일 : wlstjsdyd911@naver.com
