@@ -15,26 +15,36 @@
 
 25년 10월 29일부터 26년 04월 29일까지 6개월 동안 개발자 훈련 과정을 통해 Java, Python, Spring MVC, Git, AI 등 활용하여 '비대면 과제관리 시스템'과 '식품 커머스 플랫폼' 프로젝트를 진행함으로써 직무 경험을 쌓았습니다.
 
-## 1. ELMS
+## 1. NBB
 
-> 비대면 과제관리 시스템
+> 모임 정산 및 가상 계좌 시스템
 >
-> - 개발기간 : 2026.01.19 ~ 26.02.27(5주)
-> - 핵심 역할 : 팀장, 로그인&교사 파트 전반적인 로직 구현
+> - 개발기간 : 2026.05.25 ~ 진행 중(현재 FE-BE 연동 단계)
+> - [일별 개발일지 (Notion)](https://chip-fifth-153.notion.site/NBB-Personal-Project-3836564d4062807a8406e903c55d7992?source=copy_link)
 >
 >> Back-end
->> - Language : Java
->> - Framework : Spring MVC
->> - Database :  MySQL
->> - Build Tool : Maven
->> - Collaboration : SVN
+>> - Java 17
+>> - Spring Boot 3.x
+>> - Spring Data JPA
+>> - Hibernate
 >
 >> Front-end
->> - Language : javascript, HTML5, CSS3
->> - Communication : AJAX(via jQuery)
->> - Template Engine: JSP
->>
->> [프로젝트 링크](https://github.com/seonyong-dev/eLMS.git)
+>> - React 19
+>> - Vite
+>> - React Router v7
+>> - JavaScript(ES6+)
+>> - CSS3
+>
+>> Database
+>> - Supabase (PostgreSQL)
+>
+>> Dev Environment
+>> - VS Code (i3 Gram 사양 최적화 환경 구축)
+>
+>> Tools & Collaboration
+>> - Git / GitHub
+>> 
+>> [프로젝트 링크](https://github.com/seonyong-dev/nbb.git)
 
 <br />
 
@@ -62,6 +72,29 @@
 >> - Data Visualization: Chart.js
 >>
 >> [프로젝트 링크](https://github.com/seonyong-dev/unicook.git)
+
+<br />
+
+## 3. ELMS
+
+> 비대면 과제관리 시스템
+>
+> - 개발기간 : 2026.01.19 ~ 26.02.27(5주)
+> - 핵심 역할 : 팀장, 로그인&교사 파트 전반적인 로직 구현
+>
+>> Back-end
+>> - Language : Java
+>> - Framework : Spring MVC
+>> - Database :  MySQL
+>> - Build Tool : Maven
+>> - Collaboration : SVN
+>
+>> Front-end
+>> - Language : javascript, HTML5, CSS3
+>> - Communication : AJAX(via jQuery)
+>> - Template Engine: JSP
+>>
+>> [프로젝트 링크](https://github.com/seonyong-dev/eLMS.git)
 
 <br />
 <br />
